@@ -1,13 +1,15 @@
-<h3>Steps to run the project:</h3>
+<h2>Steps to run the project:</h2>
 Step1:
-	Navigate to DjangoProject/IR_Project/
+		
+		Navigate to DjangoProject/IR_Project/
 
 Step2:(requires python 3 and java8)
 	
 		pip install -r requirements.txt
 
 Step3:
-	python manage.py runserver
+		
+		python manage.py runserver
 
 Step4:
 		
@@ -17,7 +19,9 @@ Note: The Project doesn't work for hindi script in some devices such as windows 
 
 Note2: The Project Source Code for lucene search engine is in the root folder.
 
-Team Members:
-	Anubhav Ujjawal S20160010005
-	Anurag Gupta S20160010006
-	Garvit Kataria S20160010028
+<h3>Team Members:</h3>
+<ul>
+	<li>Anubhav Ujjawal S20160010005</li>
+	<li>Anurag Gupta S20160010006</li>
+	<li>Garvit Kataria S20160010028</li>
+</ul>
