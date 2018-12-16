@@ -1,3 +1,9 @@
+<object data="https://github.com/garvitkataria/Hindi_Search_Engine/blob/master/SahityaKhoz.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/garvitkataria/Hindi_Search_Engine/blob/master/SahityaKhoz.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 <h2>Steps to run the project:</h2>
 Step1:
 		
